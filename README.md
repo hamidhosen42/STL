@@ -1,11 +1,14 @@
 # STL
 https://www.youtube.com/watch?v=W1McvE4a910&list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5
+
 	Vector Problem:
 1.	Code force=381A(Sereja and Dima)
 2.	LeetCode=852( Peak Index in a Mountain Array)
 3.	LeetCode= 1502(Can Make Arithmetic Progression From Sequence)
 4.	Hackerearth=( Distinct Count)
 5.	Geeksforgeeks=C++ STL|Set 1(Vector)
+
+
 	String Problem:
 1.	Codeforce=118A(String Task)
 2.	CodeForce=112A(Petya and String)
@@ -15,12 +18,16 @@ https://www.youtube.com/watch?v=W1McvE4a910&list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo
 6.	Geeksforgeeks= Sum of Digit is Pallindrome or not 
 7.	Codeforce=909A(Generate Login-1000)
 8.	CodeForce=258A(Little Elephant and Bits-1100)
+
+
 	Pair Problem:
 1.	Codeforce=44A(Indian Summer)
 2.	CodeForce=166A(Rank List)
 3.	Geeksforgeeks= Count distinct pairs with difference k 
 4.	SPOJ=SORT2D-SORT
 5.	CodeForce=230A(Dragons-1000)
+
+
 	Map Problem:
 1.	Geeks for Geeks= Find the Frequency 
 2.	Geeks for Geeks=Twice Counter
@@ -33,6 +40,8 @@ https://www.youtube.com/watch?v=W1McvE4a910&list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo
 9.	SPOJ=RPLD-Database
 10.	CodeForce=1003A(Polycarp’s Pockets-800)
 11.	CodeForce=43B(Letter-1100)
+
+
 	Set Problem:
 1.	Geeks for Geeks= C++ STL | Set 6 (set)
 2.	Geeks for Geeks= Set Operations
@@ -41,14 +50,20 @@ https://www.youtube.com/watch?v=W1McvE4a910&list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo
 5.	CodeForce=22A(Second Order Statistics)
 6.	CodeForce=469A(I Wanna Be the Guy)
 7.	CodeForce =1015A(Points in Segments-800)
+
+
 	MultiSet Problem:
 1.	Geeks for Geeks= Multiset Operations
+
+
 	Queue Problem:
 1.	Geeks for Geeks= Queue Push & Pop
 2.	Geeks for Geeks= Reverse First K elements of Queue
 3.	Geeks for Geeks= Queue Reversal
+
 	Deque Problem:
 1.	Geeks for Geeks= Deque Implementations
+
 	Priority queue Problem:
 1.	CodeForce=799B(T-shirt buying)
 2.	SPOJ=REDARR2-Reduce the array
